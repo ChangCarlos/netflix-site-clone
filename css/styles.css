@@ -18,7 +18,7 @@ body {
 
 .presentation {
     padding-bottom: 70px;
-    background-image: url('/assets/bg-1.png');
+    background-image: url('../assets/bg-1.png');
     background-size: cover;
 }
 
